@@ -1,2 +1,1 @@
-# Bookmez---Practice-Project
-Practicing flexbox
+Practicing flexbox, CSS custom properties
